@@ -1,4 +1,4 @@
-package main
+package WXBizDataCrypt
 
 import(
 	"github.com/buger/jsonparser"
@@ -7,7 +7,6 @@ import(
 	"encoding/base64"
 	"errors"
 	"log"
-	"fmt"
 )
 
 
