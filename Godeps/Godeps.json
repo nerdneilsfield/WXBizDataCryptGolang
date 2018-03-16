@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/nerdneilsfield/WXBizDataCryptGolang",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/buger/jsonparser",
+			"Rev": "521e3e77693f6618528418507b7750120b03944a"
+		}
+	]
+}
